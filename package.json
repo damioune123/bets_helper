@@ -1,0 +1,24 @@
+{
+  "name": "bets_helper",
+  "version": "1.0.0",
+  "description": "bets_helper",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm --prefix api run start",
+    "build": "npm --prefix gui run build && npm --prefix api run build",
+    "install": "npm --prefix api install && npm --prefix gui install ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damioune123/bets_helper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damioune123/bets_helper/issues"
+  },
+  "homepage": "https://github.com/damioune123/bets_helper#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}

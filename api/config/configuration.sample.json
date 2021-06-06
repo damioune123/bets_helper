@@ -1,0 +1,14 @@
+{
+    "api":{
+        "apiFootball":{
+            "url": "https://api-football-v1.p.rapidapi.com/v3",
+            "headers": {
+                "x-rapidapi-key": "XXXXXX",
+                "x-rapidapi-host": "api-football-v1.p.rapidapi.com"
+              }
+        }
+    },
+    "server": {
+        "port": 5000
+    }
+}
